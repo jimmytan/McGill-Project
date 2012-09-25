@@ -8,6 +8,7 @@ public class Server {
 	public static void main(String[] args) {
 		loadProperties(args[0]);
 		startFacade();
+		int i;
 		
 
 	}
